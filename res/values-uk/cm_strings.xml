@@ -68,4 +68,6 @@
     <string name="update_recovery_off_warning">ПОПЕРЕДЖЕННЯ: Якщо цю функцію вимкнено, режим Recovery залишиться без змін.\n\nІснує можливість некоректного встановлення майбутніх версій ОС, у випадку використання застарілого чи кастомного Recovery.\n\nВи бажаєте відключити цю функцію?</string>
     <string name="heads_up_notifications_enabled_title">Спливаючі сповіщення</string>
     <string name="heads_up_notifications_enabled_summary">Відображати пріоритетні сповіщення у невеликому плаваючому вікні</string>
+    <string name="face_auto_unlock_title">Автоматичне розблокування обличчям</string>
+    <string name="face_auto_unlock_summary">Прибрати екран блокування після розблокування обличчям</string>
 </resources>

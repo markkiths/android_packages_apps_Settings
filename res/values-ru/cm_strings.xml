@@ -112,4 +112,6 @@
     <string name="heads_up_notifications_enabled_summary">Показывать приоритетные уведомления небольшими всплывающими окнами</string>
     <string name="backup_transport_setting_label">Сменить поставщика резервного копирования</string>
     <string name="backup_transport_title">Выберите поставщика резервного копирования</string>
+    <string name="face_auto_unlock_title">Автоматическая разблокировка лицом</string>
+    <string name="face_auto_unlock_summary">Убрать экран блокировки после разблокировки сканером лица</string>
 </resources>
