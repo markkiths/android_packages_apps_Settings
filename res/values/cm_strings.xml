@@ -181,4 +181,8 @@
 
     <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
     <string name="ringtone2_title">Phone ringtone - SIM 2</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 </resources>
