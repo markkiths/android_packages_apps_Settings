@@ -203,6 +203,12 @@
         android:title="@string/device_theme"
         android:summary="@string/summary_placeholder" />
 
+    <com.android.settings.widget.preferences.SystemSettingSwitchPreference
+         android:key="lockscreen_lock_icon"
+         android:title="@string/lockscreen_lock_icon_title"
+         android:summary="@string/lockscreen_lock_icon_summary"
+         android:defaultValue="true" />
+
     <Preference
         android:key="vr_display_pref"
         android:title="@string/display_vr_pref_title"
